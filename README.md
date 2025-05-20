@@ -59,7 +59,7 @@ This tool is particularly useful for developers who:
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/adobe-cep-extension-symlink-manager/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/IvanLarinDev/adobe-cep-extension-symlink-manager/issues).
 
 ## 📄 License
 
