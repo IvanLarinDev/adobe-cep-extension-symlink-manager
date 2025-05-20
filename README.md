@@ -68,4 +68,4 @@ This project is [MIT](LICENSE) licensed.
 ## 🙏 Acknowledgments
 
 - Adobe CEP documentation
-- Windows command-line symbolic link capabilities 
+- Windows command-line symbolic link capabilities
